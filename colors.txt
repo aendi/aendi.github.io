@@ -1,0 +1,6 @@
+
+#rot ED6A5A
+#gelb F4F1BB
+#grau 4F4B55
+#petrol 5CA4A9
+#hellgrau E6EBE0
